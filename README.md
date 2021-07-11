@@ -8,3 +8,5 @@
 carriesanchez48/carriesanchez48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I'm currently learning how to correct my mistakes to look better forms and to Ll of you
+
